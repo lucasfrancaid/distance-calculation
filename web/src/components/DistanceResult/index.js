@@ -28,7 +28,7 @@ const Map = ({ origins, destinations, zoom, center }) => {
   if (origins && destinations && zoom && center) {
     return(
       <div style={{ height: '100vh', width: '100%' }}>
-      <GoogleMapReact bootstrapURLKeys={{key: 'YOUR_API_KEY'}} center={center} zoom={zoom}>
+      <GoogleMapReact bootstrapURLKeys={{key: 'GOOGLE_API_KEY'}} center={center} zoom={zoom}>
         <Marker lat={origins.lat} lng={origins.lng} text="A" />
         <Marker lat={destinations.lat} lng={destinations.lng} text="B" />
       </GoogleMapReact>

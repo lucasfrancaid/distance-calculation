@@ -1,0 +1,14 @@
+ul.distance-item {
+    background: rgb(48, 46, 55);
+    box-shadow: 0 0 14px 0  rgba(0, 0, 0, 0.02);
+    border-radius: 2px;
+    padding: 30px 20px;  
+    margin-top: 0px; 
+}
+
+ul.distance-item p {
+    color: #fff;
+    font-size: 14px;
+    line-height: 0px;
+    margin: 10px 0;
+}

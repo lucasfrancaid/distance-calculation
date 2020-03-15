@@ -1,0 +1,46 @@
+.text {
+  padding-top: 6px;
+  text-indent: 4px;
+  font-size: 13px;
+  font-weight: bold;
+  font-family: Roboto, sans-serif;
+}
+.pin {
+    width: 30px;
+    height: 30px;
+    border-radius: 50% 50% 50% 0;
+    background: #20af97;
+    position: absolute;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    left: 50%;
+    top: 50%;
+    margin: -25px 0 0 -20px;
+    -webkit-animation-name: bounce;
+    -moz-animation-name: bounce;
+    -o-animation-name: bounce;
+    -ms-animation-name: bounce;
+    animation-name: bounce;
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    -ms-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    -ms-animation-duration: 1s;
+    animation-duration: 1s;
+  }
+  .pin:after {
+    content: '';
+    width: 12px;
+    height: 12px;
+    margin: 9px 0 0 9px;
+    background: rgb(48, 46, 55);
+    position: absolute;
+    border-radius: 50%;
+  }
