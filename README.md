@@ -38,7 +38,7 @@
 
 This project was created to calculate the distance between two addresses, and return the view of the distance, travel time and the origin and destination markers(pin) on the map.
 
-API's used:
+<strong>API's used</strong>
 * [Distance Matrix](https://developers.google.com/maps/documentation/distance-matrix/intro?hl=pt-br) from Google Maps API
 * [Geocoding](https://developers.google.com/maps/documentation/geocoding/start?hl=pt-br) from Google Maps API
 
@@ -101,7 +101,6 @@ Distributed under the MIT License.
 
 Lucas França - https://www.linkedin.com/in/lucasfrancaid/
 
-Project Link: [https://distance-calculation.netlify.com/](https://distance-calculation.netlify.com/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
