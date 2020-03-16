@@ -36,7 +36,7 @@
 <a href="https://github.com/lucasfrancaid/DistanceCalculation"><img src="web/public/favicon.ico" alt="Logo" width="15" height="15"></a>
 [Distance Calculation](https://distance-calculation.netlify.com/)
 
-This project was created to calculate the distance between two addresses, and return the view of the distance, travel time and the origin and destagion markers(pin) on the map.
+This project was created to calculate the distance between two addresses, and return the view of the distance, travel time and the origin and destination markers(pin) on the map.
 
 API's used:
 * [Distance Matrix](https://developers.google.com/maps/documentation/distance-matrix/intro?hl=pt-br) from Google Maps API
