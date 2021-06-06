@@ -1,7 +1,5 @@
-<!-- PROJECT SHIELDS -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/lucasfrancaid/DistanceCalculation">
@@ -18,8 +16,6 @@
 </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
 ## Table of contents
 
 * [About the Project](#about-the-project)
@@ -29,8 +25,6 @@
 * [Contact](#contact)
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About the project
 
 <a href="https://github.com/lucasfrancaid/DistanceCalculation"><img src="web/public/favicon.ico" alt="Logo" width="15" height="15"></a>
@@ -51,8 +45,6 @@ It is important to note that when thinking about some new features, I was able t
 * [Google Maps](https://github.com/googlemaps/google-maps-services-js)
 
 
-
-<!-- USING THE API -->
 ## Using the DistanceCalculationAPI
 
 It is possible to consume the DistanceCalculation API for this project by sending as <strong>parameters</strong>: 
@@ -88,22 +80,15 @@ Make a request (POST) in https://distance-calculation.herokuapp.com/Distance
 }</code></pre></p>
 
 
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License.
 
 
-
-<!-- CONTACT -->
 ## Contact
 
 Lucas França - https://www.linkedin.com/in/lucasfrancaid/
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lucasfrancaid
