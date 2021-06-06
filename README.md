@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/lucasfrancaid/DistanceCalculation">
+  <a href="https://github.com/lucasfrancaid/distance-calculation">
     <img src="web/public/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
@@ -27,7 +27,7 @@
 
 ## About the project
 
-<a href="https://github.com/lucasfrancaid/DistanceCalculation"><img src="web/public/favicon.ico" alt="Logo" width="15" height="15"></a>
+<a href="https://github.com/lucasfrancaid/distance-calculation"><img src="web/public/favicon.ico" alt="Logo" width="15" height="15"></a>
 [Distance Calculation](https://distance-calculation.netlify.com/)
 
 This project was created to calculate the distance between two addresses, and return the view of the distance, travel time and the origin and destination markers(pin) on the map.
@@ -52,7 +52,7 @@ It is possible to consume the DistanceCalculation API for this project by sendin
 * <strong>destinations</strong> (destination address) 
 * <strong>mode</strong> (walking, driving or bicycling)
 
-Make a request (POST) in https://distance-calculation.herokuapp.com/Distance
+Make a request (POST) in https://distance-calculation.herokuapp.com/distance
 <p>Example:
 <pre><code>{
 	"origins": "São Paulo, SP",
@@ -86,8 +86,7 @@ Distributed under the MIT License.
 
 
 ## Contact
-
-Lucas França - https://www.linkedin.com/in/lucasfrancaid/
+Lucas França - https://lucasfrancaid.com.br/
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
