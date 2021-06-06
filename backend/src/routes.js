@@ -1,8 +1,8 @@
 const { Router } = require('express');
-const DistanceCalculation = require('./controllers/DistanceCalculation');
+const DistanceController = require('./controllers/distanceController');
 
 const routes = Router();
 
-routes.post('/Distance', DistanceCalculation.distanceAPI);
+routes.post('/distance', DistanceController.distanceCalculation);
 
 module.exports = routes;

@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  backend:
+    container_name: distance-calculation-backend
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./backend:/usr/app
+    env_file: ./backend/.env.dev
+    command: npm run dev
